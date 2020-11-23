@@ -4,9 +4,9 @@ using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var list = new List<decimal> { 1, 2, 3, 3 };
 
