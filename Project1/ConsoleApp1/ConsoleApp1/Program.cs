@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
             decimal a = 213.432M;
             decimal b = 254533.434532M;
-            Oper oper = Oper.minus;
+            Oper oper = Oper.multiple;
 
             var proc = new Processing();
 
